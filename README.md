@@ -1,7 +1,7 @@
 # redux_concepts
 Store = objeto que armazena todo estado da aplicação e Reducers
 
-Redux = função que produz uma quantidade de estado da aplicação
+Reducer = função que produz uma quantidade de estado da aplicação
 
 State = Dados para a aplicação utilizar
 
